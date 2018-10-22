@@ -1,0 +1,19 @@
+{
+    "name"       : pbc/wp-category-permalink",
+    "description": "wp-category-permalink",
+    "type"       : "wordpress-muplugin",
+    "license"    : "GPL-2.0+",
+    "authors"    : [
+        {
+            "name"    : "Jordy Meow",
+            "homepage": "https://wordpress.org/plugins/wp-category-permalink/"
+        },
+        {
+            "name"    : "Stewart Ritchie",
+            "homepage": "https://poweredbycoffee.co.uk"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
