@@ -1,7 +1,7 @@
 {
     "name"       : "pbc/wp-category-permalink",
     "description": "wp-category-permalink",
-    "type"       : "wordpress-muplugin",
+    "type"       : "wordpress-plugin",
     "license"    : "GPL-2.0+",
     "authors"    : [
         {
